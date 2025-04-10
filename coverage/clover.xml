@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1744287439335" clover="3.2.0">
+  <project timestamp="1744287439335" name="All files">
+    <metrics statements="147" coveredstatements="131" conditionals="42" coveredconditionals="40" methods="17" coveredmethods="15" elements="206" coveredelements="186" complexity="0" loc="147" ncloc="147" packages="2" files="8" classes="8"/>
+    <package name="src">
+      <metrics statements="78" coveredstatements="62" conditionals="27" coveredconditionals="25" methods="10" coveredmethods="8"/>
+      <file name="App.tsx" path="D:\webdev\test-mindbox-todolist\src\App.tsx">
+        <metrics statements="7" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+      </file>
+      <file name="TodoApp.tsx" path="D:\webdev\test-mindbox-todolist\src\TodoApp.tsx">
+        <metrics statements="62" coveredstatements="62" conditionals="24" coveredconditionals="24" methods="7" coveredmethods="7"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="8" count="120" type="stmt"/>
+        <line num="9" count="120" type="stmt"/>
+        <line num="10" count="120" type="stmt"/>
+        <line num="12" count="120" type="cond" truecount="1" falsecount="0"/>
+        <line num="13" count="12" type="cond" truecount="1" falsecount="0"/>
+        <line num="14" count="10" type="stmt"/>
+        <line num="15" count="10" type="stmt"/>
+        <line num="16" count="10" type="stmt"/>
+        <line num="17" count="12" type="stmt"/>
+        <line num="19" count="120" type="cond" truecount="1" falsecount="0"/>
+        <line num="20" count="5" type="cond" truecount="3" falsecount="0"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="23" count="120" type="cond" truecount="1" falsecount="0"/>
+        <line num="24" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="27" count="120" type="cond" truecount="1" falsecount="0"/>
+        <line num="28" count="76" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="76" type="cond" truecount="2" falsecount="0"/>
+        <line num="30" count="72" type="stmt"/>
+        <line num="31" count="120" type="stmt"/>
+        <line num="33" count="120" type="cond" truecount="1" falsecount="0"/>
+        <line num="35" count="120" type="stmt"/>
+        <line num="36" count="120" type="stmt"/>
+        <line num="37" count="120" type="stmt"/>
+        <line num="39" count="120" type="stmt"/>
+        <line num="42" count="120" type="stmt"/>
+        <line num="43" count="120" type="stmt"/>
+        <line num="44" count="120" type="stmt"/>
+        <line num="45" count="120" type="stmt"/>
+        <line num="46" count="120" type="stmt"/>
+        <line num="49" count="120" type="stmt"/>
+        <line num="51" count="120" type="stmt"/>
+        <line num="52" count="120" type="stmt"/>
+        <line num="53" count="120" type="cond" truecount="1" falsecount="0"/>
+        <line num="54" count="120" type="stmt"/>
+        <line num="55" count="120" type="cond" truecount="2" falsecount="0"/>
+        <line num="56" count="120" type="stmt"/>
+        <line num="57" count="120" type="stmt"/>
+        <line num="59" count="120" type="stmt"/>
+        <line num="60" count="120" type="stmt"/>
+        <line num="61" count="120" type="cond" truecount="1" falsecount="0"/>
+        <line num="62" count="120" type="stmt"/>
+        <line num="63" count="120" type="cond" truecount="2" falsecount="0"/>
+        <line num="64" count="120" type="stmt"/>
+        <line num="65" count="120" type="stmt"/>
+        <line num="67" count="120" type="stmt"/>
+        <line num="68" count="120" type="stmt"/>
+        <line num="69" count="120" type="cond" truecount="1" falsecount="0"/>
+        <line num="70" count="120" type="stmt"/>
+        <line num="71" count="120" type="cond" truecount="2" falsecount="0"/>
+        <line num="72" count="120" type="stmt"/>
+        <line num="73" count="120" type="stmt"/>
+        <line num="75" count="120" type="stmt"/>
+        <line num="76" count="120" type="stmt"/>
+        <line num="77" count="120" type="stmt"/>
+        <line num="79" count="120" type="stmt"/>
+        <line num="81" count="1" type="stmt"/>
+      </file>
+      <file name="main.tsx" path="D:\webdev\test-mindbox-todolist\src\main.tsx">
+        <metrics statements="9" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+      </file>
+      <file name="types.ts" path="D:\webdev\test-mindbox-todolist\src\types.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      </file>
+    </package>
+    <package name="src.components">
+      <metrics statements="69" coveredstatements="69" conditionals="15" coveredconditionals="15" methods="7" coveredmethods="7"/>
+      <file name="TodoColumn.tsx" path="D:\webdev\test-mindbox-todolist\src\components\TodoColumn.tsx">
+        <metrics statements="13" coveredstatements="13" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="11" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="12" count="120" type="stmt"/>
+        <line num="13" count="120" type="stmt"/>
+        <line num="14" count="120" type="stmt"/>
+        <line num="15" count="120" type="stmt"/>
+        <line num="16" count="120" type="stmt"/>
+        <line num="17" count="120" type="cond" truecount="1" falsecount="0"/>
+        <line num="18" count="74" type="stmt"/>
+        <line num="19" count="120" type="stmt"/>
+        <line num="20" count="120" type="stmt"/>
+        <line num="21" count="120" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+      </file>
+      <file name="TodoInput.tsx" path="D:\webdev\test-mindbox-todolist\src\components\TodoInput.tsx">
+        <metrics statements="14" coveredstatements="14" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+        <line num="9" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="10" count="120" type="stmt"/>
+        <line num="11" count="120" type="stmt"/>
+        <line num="12" count="120" type="stmt"/>
+        <line num="13" count="120" type="stmt"/>
+        <line num="14" count="120" type="cond" truecount="1" falsecount="0"/>
+        <line num="15" count="120" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="120" type="stmt"/>
+        <line num="17" count="120" type="stmt"/>
+        <line num="18" count="120" type="stmt"/>
+        <line num="19" count="120" type="stmt"/>
+        <line num="21" count="120" type="stmt"/>
+        <line num="22" count="120" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+      </file>
+      <file name="TodoItem.tsx" path="D:\webdev\test-mindbox-todolist\src\components\TodoItem.tsx">
+        <metrics statements="32" coveredstatements="32" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+        <line num="9" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="10" count="74" type="stmt"/>
+        <line num="11" count="74" type="stmt"/>
+        <line num="12" count="74" type="stmt"/>
+        <line num="13" count="74" type="stmt"/>
+        <line num="14" count="74" type="stmt"/>
+        <line num="15" count="74" type="cond" truecount="1" falsecount="0"/>
+        <line num="16" count="74" type="stmt"/>
+        <line num="17" count="74" type="stmt"/>
+        <line num="19" count="74" type="stmt"/>
+        <line num="20" count="74" type="stmt"/>
+        <line num="26" count="74" type="cond" truecount="1" falsecount="0"/>
+        <line num="27" count="8" type="cond" truecount="1" falsecount="0"/>
+        <line num="28" count="66" type="stmt"/>
+        <line num="29" count="74" type="stmt"/>
+        <line num="33" count="74" type="stmt"/>
+        <line num="34" count="74" type="stmt"/>
+        <line num="35" count="74" type="cond" truecount="2" falsecount="0"/>
+        <line num="36" count="74" type="stmt"/>
+        <line num="37" count="74" type="stmt"/>
+        <line num="39" count="74" type="stmt"/>
+        <line num="40" count="74" type="stmt"/>
+        <line num="41" count="74" type="stmt"/>
+        <line num="42" count="74" type="stmt"/>
+        <line num="43" count="74" type="stmt"/>
+        <line num="44" count="74" type="stmt"/>
+        <line num="45" count="74" type="stmt"/>
+        <line num="46" count="74" type="cond" truecount="2" falsecount="0"/>
+        <line num="47" count="74" type="stmt"/>
+        <line num="48" count="74" type="stmt"/>
+        <line num="49" count="74" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+      </file>
+      <file name="TodoStats.tsx" path="D:\webdev\test-mindbox-todolist\src\components\TodoStats.tsx">
+        <metrics statements="10" coveredstatements="10" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="8" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="9" count="120" type="stmt"/>
+        <line num="10" count="120" type="stmt"/>
+        <line num="11" count="120" type="stmt"/>
+        <line num="12" count="120" type="stmt"/>
+        <line num="13" count="120" type="stmt"/>
+        <line num="14" count="120" type="stmt"/>
+        <line num="16" count="120" type="stmt"/>
+        <line num="17" count="120" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
