@@ -29,3 +29,7 @@
 ### npm test и npm run test (watch или разовый запуск)
 
 ### npm run coverage (отчёт по покрытию тестами)
+
+![App Pic](public/readmeImg.jpg)
+
+# [Смотреть демо](https://test-mindbox-todo.vercel.app/)
